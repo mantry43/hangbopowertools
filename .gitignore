@@ -2,4 +2,6 @@ node_modules
 .next
 firebase-debug.log
 README
-*.cache
+.cache
+node_modules
+.github
