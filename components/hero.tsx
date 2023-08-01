@@ -28,7 +28,7 @@ export default function Hero() {
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
             An export business can be quite a challenge, especially if you are new to the industry. This is where Global Selling comes into the picture.</p>
           </div>
-
+          
           <ModalVideo
             thumb={VideoThumb}
             thumbWidth={1024}

@@ -77,24 +77,30 @@ export default function Footer() {
                 <h6 className="text-purple-400 font-medium mb-4">Bank Details</h6>
                 <ul>
                   <li className="mb-1">
-                  <div className="text-gray-400"> CHINA CONSTRUCTION BANK HEBEI BRANCH </div>
+                  <div className="text-gray-400">  CITI BANK N.A.</div>
                   </li>
                   <li className="mb-1">
-                  <div className="text-gray-400">  SWIFT CODE : PCBCCNBJHBX</div>
+                  <div className="text-gray-400">  SWIFT CODE : CITIUS33XXX</div>
                   </li>
                   <li className="mb-1">
-                  <div className="text-gray-400">  BANK ADDRESS :  NO.54 BOHAI ROAD, RENQIU CITY, HEBEI PROVINCE, CHINA.</div>
+                  <div className="text-gray-400">  ZHEJIANG TAILONG COMMERCIAL BANK</div>
                   </li>
                   <li className="mb-1">
-                  <div className="text-gray-400">  BENEFICIARY  :  RENQIU YONGMAO WOODWORKING MACHINERY CO.,LTD</div>
+                  <div className="text-gray-400">  SWIFT CODE : ZJTLCNBHXXX</div>
                   </li>
                   <li className="mb-1">
-                  <div className="text-gray-400">   ACCOUNT NO. : 13014901500220100587</div>
+                  <div className="text-gray-400">  BANK ADDRESS :  NO.188 NANGUAN ROAD, LUQIAO TAIZHOU, ZHEJIANG, CHINA.</div>
                   </li>
                   <li className="mb-1">
-                  <div className="text-gray-400">   BENEFICIARY ADDRESS
-                  JINBAO ROAD,CHUAN TOWN,RENQIU CITY,HEBEI PROVINCE, CHINA
-                  USD 28450 </div>
+                  <div className="text-gray-400">  BENEFICIARY  :  ZHEJIANG HANGBO POWER TOOLS CO. LTD</div>
+                  </li>
+                  <li className="mb-1">
+                  <div className="text-gray-400">   ACCOUNT NO. : 3301071420100012015</div>
+                  </li>
+                  <li className="mb-1">
+                  <div className="text-gray-400">   BENEFICIARY ADDRESS : 
+                  NO. 1255, EAST TIYUCHANG ROAD, TAIZHOU CITY ZHEJIANG, CHINA
+                  </div>
                   </li>
                 </ul>
               </div> 
